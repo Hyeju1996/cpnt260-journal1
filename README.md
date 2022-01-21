@@ -15,7 +15,7 @@
    
   
   ## HTML code: 
-  '''
+  ```
   <header class="text-center">
   <h1>Into to Web Development</h1>
   <p>The languages of the web</p>
