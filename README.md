@@ -22,8 +22,8 @@
   <div class="img-container margin-auto">
     <img src="r">
   </div>
-</header>
-```
+  
+```</header>
 <main>
     <header>
       <h2>Basic HTML Information</h2>
@@ -55,12 +55,12 @@
         <li><em>headings</em></li>
         <li><a href="https://en.wikipedia.org/wiki/Star_Wars_(disambiguation)" target="_blank">star wars</a></li>
       </ol>
-    </section>
+   </section>
     <section>
       <h4>Inline Type Content</h4>
       <p>Lorem ipsum <strong>dolor</strong> sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Et egestas quis ipsum suspendisse ultrices.</em></p>
       <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Interdum velit laoreet id donec ultrices. Sociis natoque penatibus <a href="#">et</a> magnis. Vitae suscipit tellus mauris a diam maecenas sed.</p>      
-      <ul>
+     <ul>
         <li>links</li>
         <li>bold</li>
         <li>italics</li>
@@ -68,15 +68,13 @@
     </section>
   </article>
 </main>
-
-<footer class="text-center">
+```<footer class="text-center">
   <p>&copy; 2022 Hyeju Hongs</p>
 </footer>
-  ```
 
   ## CSS code 
-  ```
-.body {
+  
+```.body {
   background-color: whitesmoke;
 }
 .margin-auto {
