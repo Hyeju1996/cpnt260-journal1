@@ -20,7 +20,7 @@
   <h1>Into to Web Development</h1>
   <p>The languages of the web</p>
   <div class="img-container margin-auto">
-    <img src="https://images.pexels.com/photos/1181376/pexels-photo-1181376.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" alt="People working on a computer">
+    <img src="r">
   </div>
 </header>
 
