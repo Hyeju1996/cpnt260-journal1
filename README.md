@@ -23,8 +23,8 @@
     <img src="r">
   </div>
 </header>
-
-  <main>
+```
+<main>
     <header>
       <h2>Basic HTML Information</h2>
       <p>html5 specifications</p>
