@@ -13,20 +13,20 @@
 - We are writing about headings
 
    ## how to make article
-    
-    ** <h1>heading 1 </h1> 
+   
+   
+   ```
+    <h1>heading 1 </h1> 
     <h2>heading 2</h2>
     <h3>heading 3<h3>
     <h4>heading 4</h4>
-   **
-If you want make article in codepen than code about 
- '''
+   
+If you want make article in codepen than code about
  <article>
     <p>This is article</p>
     </article>
-
-
-
+    ```
+    
 ## prof of work: 
 
 - We did indivisualy did with Ashylyn
